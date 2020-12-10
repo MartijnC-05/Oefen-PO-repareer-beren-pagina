@@ -44,7 +44,6 @@ body{
 
 .page-content{
 	padding: 20px;
-	text-decoration:none;
 }
 
 h1{
@@ -60,14 +59,12 @@ h2{
 
 .top-nav ul{
 	list-style-type:none;
-	text-decoration:none;
 }
 
 .top-nav ul li{
 	transition: all 300ms ease;
 	left:0px;
 	position:relative;
-	text-decoration:none;
 }
 
 .top-nav ul li:hover{
