@@ -4,6 +4,7 @@ body{
 	margin:0;
 	font-family: monospace;
 	font-size: 15px;
+	text-decoration:none;
 }
 
 .page {
